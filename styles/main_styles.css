@@ -793,6 +793,7 @@ section
 	background: #4b4b4b;
 	padding-left: 50px;
 	cursor: pointer;
+	opacity: 0.8;
 }
 .hero_box:hover
 {
@@ -1082,6 +1083,7 @@ section
 .search_title
 {
 	color: #1a1a1a;
+	margin-top: 20px;
 }
 
 /*********************************
