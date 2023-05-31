@@ -779,6 +779,7 @@ section
 .news_post
 {
 	margin-bottom: 85px;
+	
 }
 .news_post:last-child
 {
@@ -869,6 +870,9 @@ section
 .news_post_text
 {
 	margin-top: 27px;
+	background: #fbff069a;
+	border-radius: 20px;
+	padding: 10px 10px 10px 10px;
 }
 .news_post_button
 {
