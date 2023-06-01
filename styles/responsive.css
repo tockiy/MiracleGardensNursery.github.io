@@ -302,9 +302,12 @@
 	{
 		padding-left: 15px;
 	}
+	.logo_img {
+		max-width: 100%;
+	}
 	.logo img
 	{
-		width: 110px;
+		width: 70px;
 	}
 	.logo span
 	{
