@@ -95,7 +95,7 @@ border-radius: 100px;
 p
 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 2.29;
 	font-weight: 400;
 	color: #1d1d1d;
@@ -103,6 +103,9 @@ p
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-align: justify;
+}
+span {
+	font-size: 16px;
 }
 p a
 {
@@ -874,7 +877,7 @@ section
 .news_post_text
 {
 	margin-top: 27px;
-	background: #fee1b5;
+	background-image: url("/images/888.jpg");
 	border-radius: 5px;
 	padding: 10px 10px 10px 10px;
 }
